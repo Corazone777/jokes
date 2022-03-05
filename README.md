@@ -7,4 +7,4 @@ For more options consult with joke api documentation found here https://sv443.ne
 
 Dependencies -> php
 
-Experimental branch for expanding the script
+Experimental branch is for expanding the script
