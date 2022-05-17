@@ -8,3 +8,5 @@ For more options consult with joke api documentation found here https://sv443.ne
 Dependencies -> php
 
 Experimental branch is for expanding the script
+
+![Alt text](screen.png "Example")
